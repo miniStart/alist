@@ -98,7 +98,7 @@ English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing
 - [x] Multi-thread downloading acceleration for single-thread download/stream
 ## 局域网在线预览服务
 
-<https://kkview.cn/zh-cn/index.html/>
+<https://kkview.cn/zh-cn/index.html>
 
 ## Document
 
